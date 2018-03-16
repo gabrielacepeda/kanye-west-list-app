@@ -1,4 +1,4 @@
-![21 Savage](public/21savage.jpg)
+![Kanye West](https://github.com/gabrielacepeda/kanye-west-app/blob/master/kanye.jpeg)
 
 ## Installation
 
