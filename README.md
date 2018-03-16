@@ -1,6 +1,7 @@
+## Kanye West inspired list app.
+
+
 ![Kanye West](https://github.com/gabrielacepeda/kanye-west-app/blob/master/kanye.jpeg)
-
-
 
 ## How It's Made:
 
