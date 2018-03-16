@@ -1,0 +1,39 @@
+
+
+.hidden{
+  display: none;
+}
+body{
+  font-family: 'Cormorant Garamond', serif;
+}
+h1{
+  color: #2c8458;
+}
+h2{
+  color: #5a7171;
+}
+h3{
+  margin-top: 40px;
+  color: #2c8458;
+
+}
+.messages{
+  list-style-type: none;
+
+}
+
+input{
+  font-size: 14px;
+  padding: 5px;
+
+}
+
+
+button{
+  font-size: 14px;
+  padding: 5px;
+  background-color: #2c8458;
+}
+#playlist{
+  margin-top: 40px;
+}
